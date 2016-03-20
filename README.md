@@ -1,7 +1,10 @@
 [![Build Status](https://travis-ci.org/assimilation/assimilation-official.svg?branch=master)](https://travis-ci.org/assimilation/assimilation-official)
 [![Coverity Status](https://scan.coverity.com/projects/9/badge.svg)](https://scan.coverity.com/projects/9)
 
-# Welcome to the Assimilation README file :-D.
+# Welcome to the Assimilation README file.
+
+The project home page is here :
+http://linux-ha.org/source-doc/assimilation/html/index.html
 
 The Assimilation System Management Suite provides a variety of system management capabilities with near-zero configuration. The project web site is at [assimproj.org](http://assimproj.org/), and commercial support and alternative licenses are available from [Assimilation Systems](http://AssimilationSystems.com). A more comprehensive explanation of our many capabilities can be found on the [Assimilation Systems](http://AssimilationSystems.com) site, and on their [blog](http://assimilationsystems.com/category/blog/).
 
@@ -12,7 +15,13 @@ A more detailed Getting Started guide can be found [here](http://linux-ha.org/so
 The open source project home page is at http://assimproj.org/ - check it out!
 Please join the open source project mailing list [on Mailman](http://lists.community.tummy.com/cgi-bin/mailman/listinfo/assimilation).
 This project proudly sponsored by [Assimilation Systems Limited](http://AssimilationSystems.com)</a>.
+=======
+A more detailed Getting Started guide can be found here
+http://linux-ha.org/source-doc/assimilation/html/_getting_started.html
 
+Please join the project mailing list at http://lists.community.tummy.com/cgi-bin/mailman/listinfo/assimilation
+
+This code builds with cmake.
 
 ## Dependencies
 
